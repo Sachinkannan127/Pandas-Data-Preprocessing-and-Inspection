@@ -1,0 +1,30 @@
+Step 1: Load the Data 
+● Import necessary libraries. 
+● Load the CSV file into Pandas DataFrames. 
+● Display the first and last few rows of each dataset. 
+● Check the number of rows and columns. 
+Step 2: Inspect the Data 
+● View all column names. 
+● Check data types of each column. 
+● Display a summary of numerical columns. 
+● Identify unique values in categorical columns. 
+● Check for inconsistencies or unexpected values. 
+Step 3: Check for Missing Values 
+● Identify columns with missing or null values. 
+● Decide how to handle missing data (drop, fill, or replace). 
+● Verify that no missing values remain after cleaning. 
+Step 4: Handle Duplicates 
+● Check for duplicate rows. 
+● Remove any duplicates found. 
+● Confirm that the dataset no longer has duplicates. 
+Step 5: Data Type Conversion 
+● Identify columns that need data type correction (e.g., convert strings to numbers or 
+dates). 
+● Apply the appropriate data type conversions. 
+● Verify that conversions are successful. 
+Step 6: Rename Columns (if necessary) 
+● Rename columns for clarity or consistency. 
+● Ensure all column names are meaningful and standardized. 
+Step 7: Save the Cleaned Dataset 
+● Export the cleaned and processed dataset as a new CSV file. 
+● Verify that the file saves correctly and can be reloaded without issues.
